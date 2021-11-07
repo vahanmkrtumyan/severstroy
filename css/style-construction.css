@@ -956,7 +956,7 @@ a.active {
   height: 3px;
   top: 0px;
   left: 0px;
-  z-index: 2;
+  /* z-index: 2; */
   background-color: rgb(15 31 220);
 }
 
