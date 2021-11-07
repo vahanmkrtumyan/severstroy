@@ -940,6 +940,7 @@ a.active {
   position: relative;
   top: 10px;
   margin-bottom: 24px;
+  min-height: 220px;
 }
 
 @media only screen and (max-width: 950px) {
