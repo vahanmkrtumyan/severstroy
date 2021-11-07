@@ -317,6 +317,7 @@ a.active {
   font-weight: 600;
   color: rgb(15 31 220);
   margin-left: 8px;
+  cursor: pointer;
 }
 
 .logo_hy {
