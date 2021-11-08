@@ -950,6 +950,11 @@ a.active {
   }
 }
 
+.about-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .advs-box.boxed-inverse:before {
   content: "";
   position: absolute;
