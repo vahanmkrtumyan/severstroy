@@ -837,6 +837,21 @@ a.active {
   background-image: url("../images/illum.jpg");
 }
 
+.serv6 {
+  background-image: url("../images/roofing.jpeg");
+}
+
+.serv7 {
+  background-image: url("../images/ground-works.jpg");
+}
+.serv8 {
+  background-image: url("../images/capital.jpg");
+}
+
+.serv9 {
+  background-image: url("../images/concrete.jpg");
+}
+
 .serv {
   position: relative;
 
