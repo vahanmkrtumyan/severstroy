@@ -71,6 +71,12 @@ a,
   overflow: hidden;
 }
 
+.nav-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /*------------------------------------------------------------------
 2. Body / body
 -------------------------------------------------------------------*/
