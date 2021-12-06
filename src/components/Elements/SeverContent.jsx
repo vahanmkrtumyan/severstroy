@@ -10,26 +10,6 @@ export default function SeverContent() {
   return (
     <>
       <main id="main">
-        <section className="abt-sec" id="about">
-          <div className="row">
-            <div className="col-sm-12">
-              <div className="header text-center">
-                <h2 className="heading2">
-                  <span className="title text-uppercase"> </span>
-                  {t("about")}
-                </h2>
-                <div className="about-container">
-                  <p>{t("about_text")}</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-sm-12 text-center">
-              <div className="img-holder">
-                <img src={image} className="img-responsive" />
-              </div>
-            </div>
-          </div>
-        </section>
         <section className="service-sec" id="services">
           <div className="container">
             <div className="row">

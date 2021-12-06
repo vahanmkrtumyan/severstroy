@@ -3,7 +3,7 @@ import Header from "./../Common/Header";
 import Footer from "./../Common/Footer";
 import Slider from "./../Elements/Slider";
 // import Specialization from "./../Elements/Specialization";
-import About from "./../Elements/About";
+import About from "./../Elements/About3";
 // import OurValue from "./../Elements/OurValue";
 // import OurMission from "./../Elements/OurMission";
 // import OurServices from "./../Elements/OurServices";
@@ -20,6 +20,7 @@ export default function Home() {
       <Header />
       <div className="page-content">
         <Slider />
+        <About />
         <SeverContent />
         {/* <Specialization /> */}
         {/* <OurValue />
